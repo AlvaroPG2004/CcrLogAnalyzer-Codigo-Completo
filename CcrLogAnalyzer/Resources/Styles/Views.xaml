@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:main="clr-namespace:CcrLogAnalyzer.ViewModels.Main"
+                    xmlns:topbar="clr-namespace:CcrLogAnalyzer.ViewModels.Topbar">
+    <DataTemplate DataType="{x:Type main:MainVM}">
+        <main:MainView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type topbar:TopbarVM}">
+        <topbar:TopbarView/>
+    </DataTemplate>
+</ResourceDictionary>

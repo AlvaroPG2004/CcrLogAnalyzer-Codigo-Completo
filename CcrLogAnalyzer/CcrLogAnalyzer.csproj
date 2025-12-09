@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="nlog.config" />
+    <None Remove="Resources\Fonts\Lato-Black.ttf" />
+    <None Remove="Resources\Fonts\Lato-Bold.ttf" />
+    <None Remove="Resources\Fonts\Lato-Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BusyIndicator" Version="2.0.2.1" />
+    <PackageReference Include="Castle.Core" Version="5.1.1" />
+    <PackageReference Include="Castle.Core-NLog" Version="5.1.1" />
+    <PackageReference Include="Castle.LoggingFacility" Version="6.0.0" />
+    <PackageReference Include="Castle.Windsor" Version="6.0.0" />
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.122" />
+    <PackageReference Include="morelinq" Version="4.3.0" />
+    <PackageReference Include="MVVM.Generic" Version="2.1.0" />
+    <PackageReference Include="NLog" Version="5.3.2" />
+    <PackageReference Include="NLog.Schema" Version="5.3.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Libraries\" />
+    <Folder Include="Events\" />
+    <Folder Include="Models\Domain\" />
+    <Folder Include="Models\Dto\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Resources\Converters\" />
+    <Folder Include="Resources\Images\" />
+    <Folder Include="Resources\Languages\" />
+    <Folder Include="Resources\Markups\" />
+    <Folder Include="Resources\Templates\" />
+    <Folder Include="Resources\Sounds\" />
+    <Folder Include="Services\" />
+    <Folder Include="Providers\" />
+    <Folder Include="Resources\Controls\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="nlog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Reference Include="Z.Dapper.Plus">
+      <HintPath>Libraries\Z.Dapper.Plus.dll</HintPath>
+    </Reference>
+    <Resource Include="Resources\Fonts\Lato-Black.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Fonts\Lato-Bold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\Fonts\Lato-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

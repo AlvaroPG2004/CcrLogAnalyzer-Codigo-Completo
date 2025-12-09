@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <FontFamily x:Key="LatoBlack">/CcrLogAnalyzer;component/Resources/Fonts/#Lato Black</FontFamily>
+    <FontFamily x:Key="LatoBold">/CcrLogAnalyzer;component/Resources/Fonts/#Lato Bold</FontFamily>
+    <FontFamily x:Key="LatoRegular">/CcrLogAnalyzer;component/Resources/Fonts/#Lato Regular</FontFamily>
+</ResourceDictionary>
