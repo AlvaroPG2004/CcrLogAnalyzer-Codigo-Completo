@@ -497,7 +497,15 @@ namespace CcrLogAnalyzer.ViewModels.Main
             "Temperature",
             "HoroMeter",
             "Hours",
-            "Minutes"
+            "Minutes",                        
+            "Time",
+            "Redundancy",
+            "Communication",
+            "CTS",
+            "LFD",
+            "JBUS",
+            "Startup",
+            "Number"
         };
 
         // Determinar tipo de evento por texto
