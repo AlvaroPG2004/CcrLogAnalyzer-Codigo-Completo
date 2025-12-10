@@ -40,7 +40,7 @@
             <TabItem Header="Resumen">
                 <DataGrid x:Name="Datagrid_Resumen"
               AutoGenerateColumns="False"
-              ItemsSource="{Binding LogFileEventCounts}"
+              ItemsSource="{Binding FilteredEventsView}"
               SelectedItem="{Binding SelectedLog, Mode=TwoWay}"
               FontSize="14"
               HeadersVisibility="Column"
@@ -64,7 +64,7 @@
                         <DataGridTextColumn Header="LineContent"
                                 Binding="{Binding LineContent}" 
                                 Width="*" />
-                     
+
 
                     </DataGrid.Columns>
 
@@ -134,6 +134,13 @@
             <TextBox x:Name="Text_Fin" Width="100" Text="{Binding EndTime}" Margin="5" ToolTip="Ej: 0:0:1:000"/>
 
             <Button Content="Filtrar" Command="{Binding FilterCommand}" FontSize="14" Margin="10,0,0,0"/>
+
+            <ComboBox x:Name="ComboBox_Eventos"
+                      ItemsSource="{Binding DistinctEvents}"
+                      SelectedItem="{Binding SelectedEvent}"
+                      Width="200" FontSize="14"
+                      Margin="10,0,0,0"/>
+
         </StackPanel>
     </Grid>
 </UserControl>
