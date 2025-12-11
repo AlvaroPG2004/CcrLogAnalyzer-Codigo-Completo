@@ -7,6 +7,7 @@ using MVVM.Generic.VM;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -14,6 +15,7 @@ using System.Text.Json;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Data;
 using System.Windows.Input;
 
 namespace CcrLogAnalyzer.ViewModels.Main
@@ -26,6 +28,9 @@ namespace CcrLogAnalyzer.ViewModels.Main
         public int EventCount { get; set; }
         public string LineContent { get; set; }
         public string EventType { get; set; }
+        public bool IsVisible { get; set; } = true;
+
+
     }
 
     public class MainVM : BaseViewModel
@@ -38,6 +43,39 @@ namespace CcrLogAnalyzer.ViewModels.Main
 
         // Opciones del ComboBox (archivo o carpeta)
         public ObservableCollection<string> ComboOptions { get; }
+        public ObservableCollection<string> DistinctEvents { get; set; } = new();
+
+
+
+        private string _selectedEvent;
+        public string SelectedEvent
+        {
+            get => _selectedEvent;
+            set
+            {
+                _selectedEvent = value;
+                RaisePropertyChanged();
+                ApplyEventFilter();
+            }
+        }
+        // Filtro de los eventos al selecionar desde el comboBox
+        private void ApplyEventFilter()
+        {
+            if (SelectedEvent == null || SelectedEvent == "Todos")
+            {
+                foreach (var item in LogFileEventCounts)
+                    item.IsVisible = true;
+            }
+            else
+            {
+                foreach (var item in LogFileEventCounts)
+                    item.IsVisible = item.EventType == SelectedEvent;
+            }
+            FilteredEventsView.Refresh();
+            RaisePropertyChanged(nameof(LogFileEventCounts));
+
+        }
+
 
         private string _selectedOption;
         public string SelectedOption
@@ -47,10 +85,12 @@ namespace CcrLogAnalyzer.ViewModels.Main
             {
                 _selectedOption = value;
                 RaisePropertyChanged();
-                OnOptionSelected(value); // Actualiza el comando Browse según la opción
+                // Actualiza el comando browse según la opción
+                OnOptionSelected(value);
             }
         }
-       
+
+
 
         // Configuración seleccionada del historial
         private ConfigEntry _selectedConfig;
@@ -110,17 +150,43 @@ namespace CcrLogAnalyzer.ViewModels.Main
                 Debug.WriteLine($"Error cargando desde configuración: {ex.Message}");
             }
         }
+        // Cargar automaticamente la ruta cuando se pone en el textbox
+        private async Task AutoLoadAsync()
+        {
+            if (string.IsNullOrEmpty(BrowsePath))
+                return;
+
+            if (File.Exists(BrowsePath))
+            {
+                await LoadSingleFileAsync(BrowsePath);
+                UpdateDistinctEvents();
+            }
+            else if (Directory.Exists(BrowsePath))
+            {
+                await Task.Run(() => LoadLogFilesAndCountEvents(BrowsePath));
+                UpdateDistinctEvents();
+            }
+        }
+
 
         public ICommand BrowseCommand => _browseCommand;
 
         // Lista mostrada en el DataGrid
         public ObservableCollection<LogFileEventInfo> LogFileEventCounts { get; set; } = new();
+        // Coleccion de eventos Filtrados por el comboBox
+        public ICollectionView FilteredEventsView { get; set; }
 
         private string _browsePath;
+        // BrowserPath Setter y Getter
         public string BrowsePath
         {
             get => _browsePath;
-            set { _browsePath = value; RaisePropertyChanged(); }
+            set
+            {
+                _browsePath = value;
+                RaisePropertyChanged();
+                _ = AutoLoadAsync();
+            }
         }
 
         // Campos para el filtro por tiempo
@@ -155,9 +221,21 @@ namespace CcrLogAnalyzer.ViewModels.Main
 
             // Cargar historial
             LoadSettings();
+
+            // Crear vista filtrada de eventos especificos para el DataGrid 
+            FilteredEventsView = CollectionViewSource.GetDefaultView(LogFileEventCounts);
+            FilteredEventsView.Filter = item =>
+            {
+                if (item is LogFileEventInfo log)
+                    return log.IsVisible;
+                return true;
+            };
+
         }
 
-        // Cuando el usuario cambia entre archivos/carpeta
+
+
+        // Cuando el usuario cambia entre archivos/carpeta en el buscador
         private void OnOptionSelected(string option)
         {
             _browseCommand = new DelegateCommand<string>(async path => await ExecuteBrowseAsync(path));
@@ -207,6 +285,7 @@ namespace CcrLogAnalyzer.ViewModels.Main
                 FilePath = filePath,
                 EventCount = count
             });
+            UpdateDistinctEvents();
         }
 
         // Cargar una carpeta con múltiples logs
@@ -236,6 +315,8 @@ namespace CcrLogAnalyzer.ViewModels.Main
                     LogFileEventCounts.Clear();
                     foreach (var item in items)
                         LogFileEventCounts.Add(item);
+
+                    UpdateDistinctEvents();
                 });
             }
             catch (Exception ex)
@@ -305,15 +386,18 @@ namespace CcrLogAnalyzer.ViewModels.Main
                 {
                     LogFileEventCounts.Add(new LogFileEventInfo
                     {
+
                         NameLog = Path.GetFileName(filePath),
                         FilePath = filePath,
                         LineContent = line,
                         EventCount = 1,
                         EventType = DetectEventType(line)
                     });
-                }
-            });
 
+                }
+
+            });
+            UpdateDistinctEvents();
             SaveSettings();
         }
 
@@ -358,6 +442,7 @@ namespace CcrLogAnalyzer.ViewModels.Main
             return TimeSpan.Zero;
         }
 
+        // Tab de vista previa
         private string _filePreviewContent;
         public string FilePreviewContent
         {
@@ -469,8 +554,8 @@ namespace CcrLogAnalyzer.ViewModels.Main
                 {
                     settings.History.Add(newEntry);
 
-                    // Limitar a 15 entradas de historial
-                    if (settings.History.Count > 15)
+                    // Limitar a 10 entradas de historial
+                    if (settings.History.Count > 10)
                         settings.History.RemoveAt(0);
                 }
 
@@ -497,15 +582,14 @@ namespace CcrLogAnalyzer.ViewModels.Main
             "Temperature",
             "HoroMeter",
             "Hours",
-            "Minutes",                        
+            "Minutes",
             "Time",
             "Redundancy",
             "Communication",
             "CTS",
             "LFD",
             "JBUS",
-            "Startup",
-            "Number"
+            "Startup"
         };
 
         // Determinar tipo de evento por texto
@@ -523,5 +607,23 @@ namespace CcrLogAnalyzer.ViewModels.Main
 
             return "Unknown";
         }
+
+        // Ordenar los eventos del GridData por la seleccion del nombre del evento
+        private void UpdateDistinctEvents()
+        {
+            var allEvents = LogFileEventCounts
+                .Where(x => !string.IsNullOrEmpty(x.EventType))
+                .Select(x => x.EventType)
+                .Distinct()
+                .OrderBy(x => x);
+
+            DistinctEvents.Clear();
+            foreach (var e in allEvents)
+                DistinctEvents.Add(e);
+
+            DistinctEvents.Insert(0, "Todos");
+            SelectedEvent = "Todos";
+        }
+
     }
 }
