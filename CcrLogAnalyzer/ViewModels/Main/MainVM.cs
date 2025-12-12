@@ -78,6 +78,7 @@ namespace CcrLogAnalyzer.ViewModels.Main
 
 
         private string _selectedOption;
+        // Selecionar una linea del DataGrid
         public string SelectedOption
         {
             get => _selectedOption;
@@ -489,7 +490,7 @@ namespace CcrLogAnalyzer.ViewModels.Main
         // Historial de configuraciones
         public ObservableCollection<ConfigEntry> ConfigHistory { get; set; } = new();
 
-        // Cargar historial desde archivo JSON
+        // Cargar archivo de configuracion en historial JSON
         private void LoadSettings()
         {
             try
