@@ -1,0 +1,112 @@
+
+******************************************************************
+
+0/0/0	0:0:0:445	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.04
+0/0/0	0:0:0:445	>>	Number of Files Saved	changed to	51.00
+0/0/0	0:0:0:446	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:446	>>	Previous mode Local/Remote	changed to	1.00
+0/0/0	0:0:0:446	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:446	>>	Previous Local OFF/ON	changed to	1.00
+0/0/0	0:0:0:446	>>	Previous Remote Step	changed to	2.00
+0/0/0	0:0:0:447	>>	Previous Remote OFF/ON	changed to	1.00
+0/0/0	0:0:0:449	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:449	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:449	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:449	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:449	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:450	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:450	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:450	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:450	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:452	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:453	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:453	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:453	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:453	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:454	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:454	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:454	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:454	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:456	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:456	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:457	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:457	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:457	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:457	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:458	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:458	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:458	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:460	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:460	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:460	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:461	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:461	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:461	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:461	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:462	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:462	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:462	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:462	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:464	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:465	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:465	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:465	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:465	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:465	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:466	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:466	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:466	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:468	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:468	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:469	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:469	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:469	>>	B1 Hours	changed to	24.00
+0/0/0	0:0:0:469	>>	B2 Hours	changed to	5.00
+0/0/0	0:0:0:469	>>	B3 Hours	changed to	3.00
+0/0/0	0:0:0:470	>>	B4 Hours	changed to	3.00
+0/0/0	0:0:0:470	>>	B5 Hours	changed to	24.00
+0/0/0	0:0:0:470	>>	B1 Minutes	changed to	24.00
+0/0/0	0:0:0:470	>>	B2 Minutes	changed to	27.00
+0/0/0	0:0:0:472	>>	B3 Minutes	changed to	14.00
+0/0/0	0:0:0:473	>>	B4 Minutes	changed to	22.00
+0/0/0	0:0:0:473	>>	B5 Minutes	changed to	48.00
+0/0/0	0:0:0:473	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:473	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:473	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:474	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:516	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:517	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:517	>>	Sensor GRL1: OK
+0/0/0	0:0:0:517	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:519	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:519	>>	Sensor TW1: OK
+0/0/0	0:0:0:519	>>	Sensor TW2: OK
+0/0/0	0:0:0:519	>>	Sensor TW3: OK
+0/0/0	0:0:0:520	>>	Sensor TW4: OK
+0/0/0	0:0:0:520	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:520	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:520	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:520	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:680	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	0:0:0:717	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	0:0:0:755	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:0:792	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	0:0:0:953	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:991	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:0:1:28	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:1:687	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:742	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:0:2:30	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	0:0:2:87	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:2:124	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:0:3:530	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	0:0:3:598	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:3:635	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:0:4:495	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:0:4:557	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:0:4:595	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:0:4:657	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:0:4:789	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:0:4:826	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:0:4:864	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	0:0:10:530	>>	Screen attenuated	changed to	1.00

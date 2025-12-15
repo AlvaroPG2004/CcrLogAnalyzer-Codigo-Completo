@@ -1,0 +1,171 @@
+
+******************************************************************
+
+0/0/0	0:0:0:430	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.04
+0/0/0	0:0:0:430	>>	Number of Files Saved	changed to	48.00
+0/0/0	0:0:0:431	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:431	>>	Previous mode Local/Remote	changed to	0.00
+0/0/0	0:0:0:431	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:431	>>	Previous Local OFF/ON	changed to	0.00
+0/0/0	0:0:0:431	>>	Previous Remote Step	changed to	0.00
+0/0/0	0:0:0:432	>>	Previous Remote OFF/ON	changed to	0.00
+0/0/0	0:0:0:434	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:434	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:434	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:434	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:434	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:435	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:435	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:435	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:435	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:437	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:438	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:438	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:438	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:438	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:439	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:439	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:439	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:439	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:441	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:441	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:442	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:442	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:442	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:442	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:443	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:443	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:443	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:445	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:445	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:445	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:446	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:446	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:446	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:446	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:447	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:447	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:447	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:447	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:449	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:450	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:450	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:450	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:450	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:450	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:451	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:451	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:451	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:453	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:453	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:454	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:454	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:454	>>	B1 Hours	changed to	23.00
+0/0/0	0:0:0:454	>>	B2 Hours	changed to	5.00
+0/0/0	0:0:0:454	>>	B3 Hours	changed to	3.00
+0/0/0	0:0:0:455	>>	B4 Hours	changed to	3.00
+0/0/0	0:0:0:455	>>	B5 Hours	changed to	24.00
+0/0/0	0:0:0:455	>>	B1 Minutes	changed to	39.00
+0/0/0	0:0:0:455	>>	B2 Minutes	changed to	22.00
+0/0/0	0:0:0:457	>>	B3 Minutes	changed to	12.00
+0/0/0	0:0:0:458	>>	B4 Minutes	changed to	22.00
+0/0/0	0:0:0:458	>>	B5 Minutes	changed to	48.00
+0/0/0	0:0:0:458	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:458	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:458	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:459	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:820	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:820	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:820	>>	Sensor GRL1: OK
+0/0/0	0:0:0:820	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:822	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:823	>>	Sensor TW1: OK
+0/0/0	0:0:0:823	>>	Sensor TW2: OK
+0/0/0	0:0:0:823	>>	Sensor TW3: OK
+0/0/0	0:0:0:823	>>	Sensor TW4: OK
+0/0/0	0:0:0:823	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:823	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:824	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:824	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:980	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:0:1:16	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:1:51	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:1:200	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:1:235	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:0:1:271	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:1:306	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:1:454	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:503	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:0:3:205	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:0:4:120	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	0:0:4:288	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:0:4:324	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:0:4:360	>>	REMOTE: Send MCB Set Output Current	changed to	1.80
+0/0/0	0:0:4:395	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	0:0:4:433	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	0:0:7:361	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:0:7:421	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:0:7:457	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:0:7:517	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:0:7:662	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:0:7:698	>>	REMOTE: Send MCB Set Output Current	changed to	1.80
+0/0/0	0:0:14:528	>>	Screen attenuated	changed to	1.00
+0/0/0	0:0:19:618	>>	Screen locked	changed to	1.00
+0/0/0	0:0:28:51	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:0:28:111	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:0:28:146	>>	REMOTE STEP brightness por eth comm hibrid	changed to	3.00
+0/0/0	0:0:28:206	>>	Save config data Remote STEP	changed to	3.00
+0/0/0	0:0:28:349	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:28:385	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	0:0:28:423	>>	REMOTE send Confirm STEP 3	changed to	1.00
+0/0/0	0:0:28:524	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:0:28:559	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:0:28:594	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:0:28:630	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	0:0:28:712	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:55:788	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:0:55:848	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:0:55:886	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:0:55:946	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:0:56:91	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:0:56:127	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	0:0:56:162	>>	REMOTE send Confirm STEP 3	changed to	0.00
+0/0/0	0:0:56:266	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	0:0:56:301	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	0:0:56:339	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	0:0:56:374	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	0:0:56:487	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:1:3:554	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:1:3:614	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:1:3:649	>>	REMOTE STEP brightness por eth comm hibrid	changed to	3.00
+0/0/0	0:1:3:708	>>	Save config data Remote STEP	changed to	3.00
+0/0/0	0:1:3:842	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:3:877	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	0:1:3:913	>>	REMOTE send Confirm STEP 3	changed to	1.00
+0/0/0	0:1:4:14	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:1:4:49	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:1:4:85	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:1:4:120	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	0:1:4:181	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	0:1:4:220	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:2:4:29	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:2:5:224	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:2:5:285	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:2:5:320	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:2:5:379	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:2:5:509	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:2:5:547	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	0:2:5:582	>>	REMOTE send Confirm STEP 3	changed to	0.00
+0/0/0	0:2:5:790	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	0:2:5:825	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	0:2:5:861	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	0:2:5:896	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	0:2:5:975	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:2:49:180	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:2:49:816	>>	CCR LOCAL mode pressed	changed to	0.00
+0/0/0	0:2:49:985	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:2:50:36	>>	LOCAL: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:2:50:72	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:50:226	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:50:262	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:2:50:297	>>	REMOTE send CCR mode IN REMOTE	changed to	0.00

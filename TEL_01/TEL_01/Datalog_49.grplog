@@ -1,0 +1,883 @@
+
+******************************************************************
+
+0/0/0	0:0:0:400	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.04
+0/0/0	0:0:0:401	>>	Number of Files Saved	changed to	50.00
+0/0/0	0:0:0:401	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:401	>>	Previous mode Local/Remote	changed to	0.00
+0/0/0	0:0:0:401	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:401	>>	Previous Local OFF/ON	changed to	0.00
+0/0/0	0:0:0:402	>>	Previous Remote Step	changed to	0.00
+0/0/0	0:0:0:402	>>	Previous Remote OFF/ON	changed to	0.00
+0/0/0	0:0:0:404	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:404	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:404	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:405	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:405	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:405	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:405	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:405	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:406	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:408	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:408	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:408	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:408	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:409	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:409	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:409	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:409	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:409	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:411	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:412	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:412	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:412	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:412	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:413	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:413	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:413	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:413	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:415	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:415	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:416	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:416	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:416	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:416	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:417	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:417	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:417	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:417	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:417	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:420	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:420	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:420	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:420	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:420	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:421	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:421	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:421	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:421	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:423	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:424	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:424	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:424	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:424	>>	B1 Hours	changed to	23.00
+0/0/0	0:0:0:424	>>	B2 Hours	changed to	5.00
+0/0/0	0:0:0:425	>>	B3 Hours	changed to	3.00
+0/0/0	0:0:0:425	>>	B4 Hours	changed to	3.00
+0/0/0	0:0:0:425	>>	B5 Hours	changed to	24.00
+0/0/0	0:0:0:425	>>	B1 Minutes	changed to	40.00
+0/0/0	0:0:0:426	>>	B2 Minutes	changed to	22.00
+0/0/0	0:0:0:428	>>	B3 Minutes	changed to	14.00
+0/0/0	0:0:0:428	>>	B4 Minutes	changed to	22.00
+0/0/0	0:0:0:428	>>	B5 Minutes	changed to	48.00
+0/0/0	0:0:0:428	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:428	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:429	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:429	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:472	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:472	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:472	>>	Sensor GRL1: OK
+0/0/0	0:0:0:472	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:474	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:474	>>	Sensor TW1: OK
+0/0/0	0:0:0:475	>>	Sensor TW2: OK
+0/0/0	0:0:0:475	>>	Sensor TW3: OK
+0/0/0	0:0:0:475	>>	Sensor TW4: OK
+0/0/0	0:0:0:475	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:475	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:475	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:476	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:634	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:0:0:672	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:0:710	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:0:861	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:898	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:0:0:936	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:974	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:1:122	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:173	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:0:5:613	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:0:6:503	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	0:0:6:672	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:0:6:712	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:0:6:750	>>	REMOTE: Send MCB Set Output Current	changed to	1.80
+0/0/0	0:0:6:787	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	0:0:6:827	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	0:0:16:530	>>	Screen attenuated	changed to	1.00
+0/0/0	0:0:21:635	>>	Screen locked	changed to	1.00
+0/0/0	0:0:22:105	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:0:22:167	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:0:22:204	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:0:22:266	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:0:22:414	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:0:22:454	>>	REMOTE: Send MCB Set Output Current	changed to	1.80
+0/0/0	0:1:6:31	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:1:19:820	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	0:1:25:981	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:1:37:423	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:1:38:891	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	0:1:49:530	>>	Screen attenuated	changed to	1.00
+0/0/0	0:2:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:3:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:4:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:5:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:6:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:7:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:8:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:9:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:10:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:11:6:32	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:12:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:13:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:14:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:15:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:16:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:17:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:18:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:19:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:20:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:21:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:22:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:23:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:24:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:25:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:26:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:27:6:31	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:28:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:29:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:30:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:31:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:31:38:530	>>	Screen attenuated	changed to	1.00
+0/0/0	0:32:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:33:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:34:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:35:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:36:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:36:26:530	>>	Screen attenuated	changed to	1.00
+0/0/0	0:37:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:38:6:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:38:58:176	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:38:59:41	>>	CCR LOCAL mode pressed	changed to	0.00
+0/0/0	0:38:59:211	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:38:59:251	>>	LOCAL: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:38:59:288	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:38:59:447	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:38:59:485	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:38:59:522	>>	REMOTE send CCR mode IN REMOTE	changed to	0.00
+0/0/0	0:38:60:106	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	0:39:0:707	>>	CCR ON/OFF pressed	changed to	1.00
+0/0/0	0:39:0:745	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:39:0:783	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:39:0:941	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:39:0:979	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	0:39:1:178	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:39:1:215	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:39:1:253	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:39:1:291	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:39:1:328	>>	Save log data (Mode , ON/OFF)	changed to	0.10
+0/0/0	0:39:1:399	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	0:39:1:530	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:39:1:581	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:39:1:619	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:39:1:775	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:39:10:530	>>	Screen attenuated	changed to	1.00
+0/0/0	0:39:15:530	>>	Screen locked	changed to	1.00
+0/0/0	0:40:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:40:45:305	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:40:45:369	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:40:45:407	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:40:45:469	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:41:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:42:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:43:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:43:6:709	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:43:6:772	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:43:6:812	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:43:6:874	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:44:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:45:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:46:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:47:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:48:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:49:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:50:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:51:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:52:1:37	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:53:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:54:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:55:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:56:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:57:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:58:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:59:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:59:1:92	>>	B1 Hours	changed to	24.00
+0/0/0	0:59:1:130	>>	B1 Minutes	changed to	0.00
+0/0/0	1:0:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:1:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:2:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:3:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:4:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:5:1:32	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:6:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:7:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:8:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:9:1:36	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:10:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:10:23:530	>>	Screen attenuated	changed to	1.00
+0/0/0	1:11:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:12:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:13:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:14:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:14:2:624	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	1:15:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:16:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:17:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:18:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:18:10:578	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	1:19:1:32	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:20:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:21:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:22:1:31	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:23:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:23:13:229	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	1:23:13:291	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	1:23:13:328	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	1:23:13:390	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	1:23:17:216	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	1:23:17:278	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	1:23:17:316	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	1:23:17:378	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	1:23:18:818	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:23:18:880	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:23:18:918	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	1:23:18:983	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	1:23:20:102	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:23:20:164	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:23:20:202	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:23:20:264	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:23:20:793	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:23:20:855	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:23:20:895	>>	REMOTE STEP brightness por eth comm hibrid	changed to	3.00
+0/0/0	1:23:20:957	>>	Save config data Remote STEP	changed to	3.00
+0/0/0	1:23:21:831	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	1:23:21:892	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	1:23:21:930	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	1:23:21:992	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	1:23:23:266	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:23:23:328	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:23:23:368	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	1:23:23:430	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	1:23:26:607	>>	Mode menu pressed	changed to	3.00
+0/0/0	1:23:27:529	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	1:23:27:697	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:23:27:735	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	1:23:27:772	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	1:23:27:812	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	1:23:29:166	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:23:31:638	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:23:31:700	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:23:31:738	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:23:31:800	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:23:31:931	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:23:31:969	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:23:32:9	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	1:23:32:47	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	1:23:34:170	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	1:23:34:231	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	1:23:34:269	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	1:23:34:331	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	1:23:34:463	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	1:23:34:503	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:23:34:541	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	1:23:34:650	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	1:23:34:688	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	1:23:34:725	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	1:23:34:763	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	1:23:34:882	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	1:23:37:493	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:23:37:555	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:23:37:593	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:23:37:655	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:23:37:786	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:23:37:824	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:23:37:862	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	1:23:37:965	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	1:23:38:3	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	1:23:38:40	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	1:23:38:78	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	1:23:38:148	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	1:23:39:534	>>	Screen attenuated	changed to	1.00
+0/0/0	1:23:44:530	>>	Screen locked	changed to	1.00
+0/0/0	1:24:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:24:9:242	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	1:24:9:304	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	1:24:9:342	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	1:24:9:404	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	1:24:9:535	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	1:24:9:573	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:24:9:611	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	1:24:9:713	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	1:24:9:751	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	1:24:9:788	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	1:24:9:826	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	1:24:10:30	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	1:25:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:25:27:90	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:25:27:152	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:25:27:191	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:25:27:254	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:25:27:386	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:25:27:423	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:25:27:461	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	1:25:27:568	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	1:25:27:605	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	1:25:27:645	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	1:25:27:683	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	1:25:27:744	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	1:26:1:35	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:27:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:28:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:29:1:30	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:29:55:254	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	1:29:55:294	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	1:29:55:331	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	1:29:55:369	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	1:29:55:430	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	1:29:55:652	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	1:29:55:854	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	1:29:56:56	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	1:29:56:532	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:29:56:601	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:56:639	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:29:58:32	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:29:58:75	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:58:112	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:29:59:532	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:29:59:572	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:59:609	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:1:32	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:1:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:1:107	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:30:1:145	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:1:182	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:2:532	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:2:621	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:2:659	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:3:303	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:3:340	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:3:442	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:4:32	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:4:95	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:4:135	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:5:532	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:5:572	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:5:609	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:7:32	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:7:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:7:107	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:7:147	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:8:532	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:8:593	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:8:631	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:9:282	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:9:319	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:9:421	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:10:32	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:10:69	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:10:107	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:11:532	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:11:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:11:607	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:13:32	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:13:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:13:109	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:13:147	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:14:532	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:14:593	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:14:631	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:15:261	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:15:299	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:15:400	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:16:32	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:16:98	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:16:135	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:17:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:17:572	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:17:609	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:19:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:19:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:19:107	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:19:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:20:531	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:20:594	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:20:631	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:21:240	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:21:278	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:21:379	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:22:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:22:77	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:22:114	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:23:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:23:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:23:609	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:25:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:25:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:25:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:25:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:26:531	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:26:594	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:26:634	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:27:220	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:27:258	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:27:359	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:28:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:28:96	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:28:133	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:29:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:29:573	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:29:610	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:31:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:31:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:31:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:31:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:32:532	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:32:580	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:32:617	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:33:200	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:33:238	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:33:339	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:34:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:34:76	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:34:116	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:35:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:35:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:35:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:37:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:37:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:37:107	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:37:147	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:38:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:38:594	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:38:631	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:39:280	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:39:317	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:39:419	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:40:32	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:40:70	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:40:108	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:41:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:41:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:41:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:43:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:43:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:43:109	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:43:147	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:44:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:44:594	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:44:631	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:45:259	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:45:296	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:45:398	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:46:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:46:96	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:46:133	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:47:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:47:570	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:47:607	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:49:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:49:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:49:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:49:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:50:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:50:580	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:50:617	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:51:238	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:51:276	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:51:377	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:52:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:52:75	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:52:112	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:53:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:53:617	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:53:657	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:55:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:55:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:55:107	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:55:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:56:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:56:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:56:637	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:57:217	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:57:255	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:57:356	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:58:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:58:93	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:58:131	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:59:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:59:570	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:59:607	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:1:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:1:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:1:107	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:31:1:239	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:1:276	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:2:531	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:2:615	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:2:652	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:3:398	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:3:436	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:3:537	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:4:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:4:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:4:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:5:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:5:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:5:725	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:7:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:7:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:7:105	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:7:145	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:8:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:8:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:8:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:9:276	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:9:314	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:9:415	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:10:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:10:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:10:105	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:11:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:11:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:11:605	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:13:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:13:70	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:13:108	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:13:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:14:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:14:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:14:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:15:255	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:15:292	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:15:394	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:16:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:16:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:16:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:17:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:17:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:17:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:19:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:19:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:19:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:19:143	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:20:531	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:20:580	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:20:617	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:21:234	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:21:271	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:21:373	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:22:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:22:71	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:22:108	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:22:781	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:31:22:843	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:31:22:883	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:31:22:945	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:31:23:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:23:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:23:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:23:581	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:23:618	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:24:731	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:31:24:793	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:31:24:830	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	1:31:24:892	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	1:31:25:25	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:25:62	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	1:31:25:100	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	1:31:25:140	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	1:31:25:184	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:25:222	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:25:274	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:25:311	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	1:31:25:931	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:31:25:993	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:31:26:33	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:31:26:95	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:31:26:230	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:26:267	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:26:305	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	1:31:26:342	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	1:31:26:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:26:606	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:26:644	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:27:415	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:27:452	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:27:554	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:28:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:28:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:28:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:29:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:29:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:29:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:31:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:31:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:31:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:31:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:32:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:32:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:32:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:33:192	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:33:229	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:33:331	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:34:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:34:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:34:108	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:35:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:35:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:35:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:37:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:37:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:37:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:37:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:38:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:38:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:38:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:39:272	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:39:309	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:39:411	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:40:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:40:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:40:105	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:41:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:41:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:41:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:43:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:43:71	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:43:109	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:43:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:44:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:44:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:44:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:45:251	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:45:288	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:45:393	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:46:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:46:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:46:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:47:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:47:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:47:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:49:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:49:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:49:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:49:143	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:50:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:50:580	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:50:617	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:51:230	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:51:267	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:51:369	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:52:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:52:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:52:106	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:53:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:53:570	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:53:608	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:55:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:31:55:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:31:55:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:55:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:56:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:31:56:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:56:632	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:57:209	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:31:57:246	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:31:57:348	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:31:58:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:31:58:98	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:58:135	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:31:59:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:31:59:575	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:31:59:612	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:1:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:1:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:1:105	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:32:1:143	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:1:183	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:2:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:2:620	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:2:657	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:3:289	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:3:326	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:3:428	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:4:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:4:126	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:4:163	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:5:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:5:600	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:5:637	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:7:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:7:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:7:108	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:7:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:8:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:8:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:8:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:9:268	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:9:306	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:9:407	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:10:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:10:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:10:105	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:11:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:11:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:11:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:13:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:13:70	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:13:108	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:13:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:14:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:14:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:14:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:15:247	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:15:287	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:15:393	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:16:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:16:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:16:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:17:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:17:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:17:608	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:19:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:19:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:19:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:19:143	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:20:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:20:580	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:20:617	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:21:229	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:21:266	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:21:368	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:22:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:22:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:22:106	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:23:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:23:571	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:23:608	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:25:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:25:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:25:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:25:143	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:26:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:26:580	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:26:617	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:27:208	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:27:245	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:27:347	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:28:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:28:97	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:28:135	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:29:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:29:574	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:29:611	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:31:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:31:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:31:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:31:143	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:32:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:32:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:32:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:33:188	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:33:225	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:33:327	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:34:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:34:71	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:34:108	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:35:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:35:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:35:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:37:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:37:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:37:108	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:37:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:38:531	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:38:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:38:630	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:39:268	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:39:305	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:39:407	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:40:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:40:68	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:40:106	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:41:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:41:568	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:41:605	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:43:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:43:70	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:43:109	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:43:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:44:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:44:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:44:630	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:45:247	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:45:287	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:45:393	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:46:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:46:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:46:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:47:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:47:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:47:608	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:49:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:49:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:49:106	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:49:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:50:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:50:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:50:630	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:51:229	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:51:266	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:51:368	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:52:31	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:52:118	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:52:155	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:53:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:53:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:53:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:55:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:32:55:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:32:55:107	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:55:144	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:56:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:32:56:592	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:56:629	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:57:208	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:32:57:245	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:32:57:347	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:32:58:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:32:58:97	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:58:134	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:32:59:530	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:32:59:574	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:32:59:611	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:33:1:30	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:33:1:67	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:33:1:105	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:33:1:240	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:33:1:280	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:33:2:530	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:33:2:617	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:33:2:654	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:33:3:394	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:33:3:431	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:33:3:533	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:33:4:30	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:33:4:92	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:33:4:129	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:33:5:531	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:33:5:569	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:33:5:606	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:33:7:31	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:33:7:69	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:33:7:109	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:33:7:146	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
