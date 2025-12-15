@@ -1,0 +1,100 @@
+
+******************************************************************
+
+0/0/0	0:0:0:394	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.13
+0/0/0	0:0:0:394	>>	Number of Files Saved	changed to	7.00
+0/0/0	0:0:0:394	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:394	>>	Previous mode Local/Remote	changed to	0.00
+0/0/0	0:0:0:394	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:395	>>	Previous Local OFF/ON	changed to	0.00
+0/0/0	0:0:0:395	>>	Previous Remote Step	changed to	5.00
+0/0/0	0:0:0:395	>>	Previous Remote OFF/ON	changed to	1.00
+0/0/0	0:0:0:397	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:397	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:398	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:398	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:398	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:398	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:398	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:399	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:399	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:401	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:401	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:401	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:402	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:402	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:402	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:402	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:402	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:403	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:405	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:405	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:405	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:405	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:406	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:406	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:406	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:406	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:406	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:409	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:409	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:409	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:409	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:409	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:410	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:410	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:410	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:410	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:410	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:411	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:413	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:413	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:413	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:413	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:414	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:414	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:414	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:414	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:414	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:417	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:417	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:417	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:417	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:417	>>	B1 Hours	changed to	5.00
+0/0/0	0:0:0:418	>>	B2 Hours	changed to	0.00
+0/0/0	0:0:0:418	>>	B3 Hours	changed to	2.00
+0/0/0	0:0:0:418	>>	B4 Hours	changed to	2.00
+0/0/0	0:0:0:418	>>	B5 Hours	changed to	18.00
+0/0/0	0:0:0:418	>>	B1 Minutes	changed to	54.00
+0/0/0	0:0:0:419	>>	B2 Minutes	changed to	54.00
+0/0/0	0:0:0:421	>>	B3 Minutes	changed to	49.00
+0/0/0	0:0:0:421	>>	B4 Minutes	changed to	58.00
+0/0/0	0:0:0:421	>>	B5 Minutes	changed to	57.00
+0/0/0	0:0:0:421	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:422	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:422	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:422	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:481	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:481	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:481	>>	Sensor GRL1: OK
+0/0/0	0:0:0:482	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:484	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:484	>>	Sensor TW1: OK
+0/0/0	0:0:0:484	>>	Sensor TW2: OK
+0/0/0	0:0:0:484	>>	Sensor TW3: OK
+0/0/0	0:0:0:484	>>	Sensor TW4: OK
+0/0/0	0:0:0:484	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:485	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:485	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:485	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:626	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:0:0:647	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:0:667	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:0:799	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:820	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:0:0:840	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:860	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:0:990	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	0:0:1:11	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:547	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:0:10:513	>>	Screen attenuated	changed to	1.00

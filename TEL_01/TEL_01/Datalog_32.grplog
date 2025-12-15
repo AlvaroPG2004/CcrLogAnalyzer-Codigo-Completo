@@ -1,0 +1,1128 @@
+
+******************************************************************
+
+0/0/0	0:0:0:398	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.33
+0/0/0	0:0:0:398	>>	Number of Files Saved	changed to	33.00
+0/0/0	0:0:0:399	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:399	>>	Previous mode Local/Remote	changed to	0.00
+0/0/0	0:0:0:399	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:399	>>	Previous Local OFF/ON	changed to	0.00
+0/0/0	0:0:0:400	>>	Previous Remote Step	changed to	1.00
+0/0/0	0:0:0:400	>>	Previous Remote OFF/ON	changed to	1.00
+0/0/0	0:0:0:402	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:402	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:402	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:402	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:403	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:403	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:403	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:403	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:404	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:406	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:406	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:406	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:406	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:406	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:407	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:407	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:407	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:407	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:409	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:410	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:410	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:410	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:410	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:410	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:411	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:411	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:411	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:413	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:413	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:414	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:414	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:414	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:414	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:415	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:415	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:415	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:415	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:415	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:417	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:418	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:418	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:418	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:418	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:419	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:419	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:419	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:419	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:421	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:421	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:422	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:422	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:422	>>	B1 Hours	changed to	23.00
+0/0/0	0:0:0:422	>>	B2 Hours	changed to	1.00
+0/0/0	0:0:0:423	>>	B3 Hours	changed to	3.00
+0/0/0	0:0:0:423	>>	B4 Hours	changed to	2.00
+0/0/0	0:0:0:423	>>	B5 Hours	changed to	24.00
+0/0/0	0:0:0:423	>>	B1 Minutes	changed to	25.00
+0/0/0	0:0:0:423	>>	B2 Minutes	changed to	1.00
+0/0/0	0:0:0:425	>>	B3 Minutes	changed to	9.00
+0/0/0	0:0:0:426	>>	B4 Minutes	changed to	58.00
+0/0/0	0:0:0:426	>>	B5 Minutes	changed to	13.00
+0/0/0	0:0:0:426	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:426	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:427	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:427	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:461	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:461	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:461	>>	Sensor GRL1: OK
+0/0/0	0:0:0:462	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:464	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:464	>>	Sensor TW1: OK
+0/0/0	0:0:0:464	>>	Sensor TW2: OK
+0/0/0	0:0:0:464	>>	Sensor TW3: OK
+0/0/0	0:0:0:464	>>	Sensor TW4: OK
+0/0/0	0:0:0:464	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:465	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:465	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:465	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:615	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:0:0:644	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:0:673	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:0:814	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:843	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:0:0:872	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:902	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:1:542	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:586	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:0:10:522	>>	Screen attenuated	changed to	1.00
+0/0/0	0:4:27:685	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:4:27:988	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	0:4:28:141	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:4:28:172	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:4:28:201	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:4:28:234	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	0:4:28:263	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	0:4:28:292	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	0:4:28:445	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:4:28:475	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:4:28:504	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:4:28:534	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	0:4:28:583	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	0:4:37:522	>>	Screen attenuated	changed to	1.00
+0/0/0	0:4:42:609	>>	Screen locked	changed to	1.00
+0/0/0	0:5:27:222	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:7:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:8:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:9:8:307	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:9:8:360	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:9:8:392	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	0:9:8:447	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	0:9:8:571	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:9:8:600	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:9:8:629	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	0:9:8:658	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	0:9:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:10:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:11:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:12:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:13:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:15:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:16:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:18:42:56	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:18:42:110	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:18:42:139	>>	REMOTE STEP brightness por eth comm hibrid	changed to	5.00
+0/0/0	0:18:42:193	>>	Save config data Remote STEP	changed to	5.00
+0/0/0	0:18:42:331	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:18:42:361	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	0:18:42:391	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	0:18:42:418	>>	REMOTE send Confirm STEP 5	changed to	1.00
+0/0/0	0:18:52:521	>>	Screen attenuated	changed to	1.00
+0/0/0	0:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:20:48:314	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:20:48:368	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:20:48:397	>>	REMOTE STEP brightness por eth comm hibrid	changed to	5.00
+0/0/0	0:20:48:450	>>	Save config data Remote STEP	changed to	5.00
+0/0/0	0:20:48:576	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:20:48:605	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	0:20:57:521	>>	Screen attenuated	changed to	1.00
+0/0/0	0:21:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:22:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:23:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:24:18:973	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	0:24:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:25:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:26:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:27:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:28:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:29:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:29:30:661	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	0:30:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:32:27:20	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:33:40:534	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	0:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:35:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:39:6:157	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	0:39:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:43:17:747	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	0:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:45:27:28	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:47:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:50:50:940	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	0:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:52:32:375	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:52:32:429	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:52:32:491	>>	REMOTE STEP brightness por eth comm hibrid	changed to	4.00
+0/0/0	0:52:32:545	>>	Save config data Remote STEP	changed to	4.00
+0/0/0	0:52:32:671	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:52:32:700	>>	REMOTE: Send MCB Set Output Current	changed to	5.20
+0/0/0	0:52:32:730	>>	REMOTE send Confirm STEP 4	changed to	1.00
+0/0/0	0:52:32:762	>>	REMOTE send Confirm STEP 5	changed to	0.00
+0/0/0	0:52:33:342	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:52:33:397	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:52:33:426	>>	REMOTE STEP brightness por eth comm hibrid	changed to	3.00
+0/0/0	0:52:33:480	>>	Save config data Remote STEP	changed to	3.00
+0/0/0	0:52:33:605	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:52:33:634	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	0:52:33:665	>>	REMOTE send Confirm STEP 3	changed to	1.00
+0/0/0	0:52:33:696	>>	REMOTE send Confirm STEP 4	changed to	0.00
+0/0/0	0:52:34:350	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:52:34:405	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:52:34:435	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	0:52:34:488	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	0:52:34:614	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:52:34:643	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:52:34:675	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	0:52:34:705	>>	REMOTE send Confirm STEP 3	changed to	0.00
+0/0/0	0:52:35:378	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:52:35:432	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:52:35:462	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	0:52:35:516	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	0:52:35:641	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:52:35:673	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:52:35:734	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	0:52:35:764	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	0:52:36:903	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:52:36:957	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:52:36:987	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:52:37:41	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:52:37:166	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:52:37:198	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:52:37:227	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	0:52:37:334	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	0:52:37:363	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	0:52:37:393	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	0:52:37:423	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	0:52:37:686	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:59:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:5:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:6:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:9:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:18:27:24	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:22:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:25:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:29:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:35:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:39:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:47:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:1:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:3:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:9:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:15:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:23:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:25:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:27:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:29:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:30:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:31:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:32:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:33:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:34:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:35:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:36:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:37:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:38:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:39:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:40:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:41:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:42:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:43:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:44:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:45:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:46:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:47:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:48:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:49:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:50:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:51:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:52:27:24	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:53:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:54:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:55:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:56:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:57:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:58:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:59:25:517	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	2:59:25:571	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	2:59:25:603	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	2:59:25:690	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	2:59:25:817	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	2:59:25:847	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	2:59:25:876	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	2:59:26:76	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	2:59:26:105	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	2:59:26:137	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	2:59:26:167	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	2:59:26:219	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	2:59:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:59:28:573	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	2:59:28:627	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	2:59:28:656	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	2:59:28:713	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	2:59:28:838	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	2:59:28:868	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	2:59:28:897	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	2:59:28:926	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	3:0:27:25	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:1:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:2:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:3:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:4:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:5:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:6:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:7:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:8:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:9:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:10:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:11:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:12:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:13:12:594	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	3:13:12:649	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	3:13:12:678	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	3:13:12:732	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	3:13:12:856	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	3:13:12:885	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	3:13:12:917	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	3:13:13:18	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	3:13:13:81	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	3:13:13:110	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	3:13:13:139	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	3:13:13:206	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	3:13:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:14:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:15:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:16:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:17:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:18:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:19:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:20:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:21:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:22:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:23:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:24:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:25:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:26:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:27:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:28:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:29:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:30:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:31:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:32:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:33:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:34:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:35:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:36:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:37:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:38:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:39:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:40:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:41:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:42:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:43:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:44:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:45:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:46:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:47:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:48:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:49:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:50:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:51:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:52:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:52:36:910	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	3:52:36:965	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	3:52:36:994	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	3:52:37:48	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	3:52:37:222	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	3:52:37:252	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	3:52:37:281	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	3:52:37:381	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	3:52:37:411	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	3:52:37:440	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	3:52:37:469	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	3:52:37:524	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	3:52:41:824	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	3:52:41:879	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	3:52:41:908	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	3:52:41:962	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	3:52:42:88	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	3:52:42:117	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	3:52:42:182	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	3:52:42:211	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	3:53:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:54:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:55:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:56:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:57:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:58:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:59:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:0:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:1:18:92	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	4:1:18:145	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	4:1:18:206	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	4:1:18:260	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	4:1:18:397	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	4:1:18:426	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	4:1:18:458	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	4:1:18:488	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	4:1:18:663	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	4:1:18:717	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	4:1:18:746	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	4:1:18:801	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	4:1:18:938	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	4:1:18:970	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	4:1:18:999	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	4:1:19:109	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	4:1:19:139	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	4:1:19:200	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	4:1:19:230	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	4:1:19:383	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	4:1:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:2:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:3:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:4:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:5:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:6:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:7:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:8:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:9:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:10:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:11:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:12:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:13:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:14:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:15:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:16:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:17:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:18:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:19:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:20:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:21:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:22:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:23:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:24:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:25:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:26:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:27:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:28:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:29:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:30:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:31:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:32:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:33:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:34:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:35:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:36:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:37:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:38:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:39:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:40:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:41:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:42:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:43:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:44:27:24	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:45:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:46:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:47:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:48:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:49:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:50:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:51:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:52:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:53:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:54:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:55:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:56:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:57:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:58:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:59:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:0:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:1:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:2:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:3:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:4:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:5:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:6:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:7:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:8:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:9:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:10:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:11:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:12:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:13:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:14:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:15:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:16:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:17:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:18:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:19:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:20:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:21:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:22:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:23:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:24:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:25:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:26:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:27:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:28:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:29:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:30:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:31:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:32:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:33:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:34:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:35:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:36:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:37:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:38:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:39:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:40:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:41:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:42:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:43:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:44:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:45:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:46:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:47:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:48:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:49:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:50:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:51:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:52:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:53:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:54:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:55:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:56:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:57:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:58:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:59:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:0:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:1:27:24	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:2:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:3:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:4:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:5:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:6:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:7:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:8:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:9:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:10:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:11:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:12:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:13:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:14:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:15:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:16:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:17:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:18:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:19:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:20:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:21:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:22:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:23:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:24:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:25:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:26:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:27:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:28:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:29:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:30:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:31:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:32:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:33:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:34:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:35:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:36:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:37:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:38:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:39:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:40:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:41:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:42:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:43:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:44:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:45:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:46:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:47:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:48:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:49:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:50:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:51:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:52:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:53:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:54:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:55:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:56:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:0:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:7:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:9:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:19:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:24:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:29:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:35:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:37:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:39:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:47:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:51:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:9:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:13:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:18:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:29:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:35:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:39:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:41:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:47:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:48:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:57:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:9:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:13:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:29:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:32:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:35:27:19	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:39:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:43:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:47:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:52:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:53:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:58:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:8:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:9:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:12:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:28:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:29:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:35:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:39:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:47:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:57:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:4:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:5:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:6:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:8:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:9:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:29:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:34:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:35:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:39:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:47:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:50:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:55:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:56:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:7:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:9:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:10:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:18:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:23:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:26:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:29:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:31:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:33:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:35:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:36:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:39:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:40:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:44:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:46:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:47:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:49:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:59:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:5:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:7:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:8:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:9:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:10:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:11:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:12:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:13:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:14:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:15:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:16:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:17:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:18:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:19:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:20:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:21:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:22:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:23:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:24:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:25:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:26:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:27:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:28:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:29:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:30:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:31:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:32:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:33:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:34:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:35:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:36:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:37:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:38:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:39:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:40:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:41:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:42:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:43:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:44:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:45:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:46:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:47:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:48:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:49:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:50:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:51:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:52:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:53:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:54:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:55:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:56:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:57:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:58:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:59:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:0:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:1:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:2:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:3:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:4:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:5:6:769	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	14:5:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:6:21:610	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	14:6:27:21	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:7:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:7:53:521	>>	Screen attenuated	changed to	1.00
+0/0/0	14:8:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:9:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:10:17:521	>>	Screen attenuated	changed to	1.00
+0/0/0	14:10:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:11:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:12:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:13:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:14:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:15:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:16:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:17:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:18:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:19:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:20:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:21:27:22	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:22:27:23	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:23:9:314	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	14:23:9:367	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	14:23:9:397	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	14:23:9:454	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	14:23:9:577	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	14:23:9:607	>>	REMOTE: Send MCB Set Output Current	changed to	2.80

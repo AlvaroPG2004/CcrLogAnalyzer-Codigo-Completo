@@ -1,0 +1,314 @@
+
+******************************************************************
+
+0/0/0	0:0:0:386	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.04
+0/0/0	0:0:0:387	>>	Number of Files Saved	changed to	59.00
+0/0/0	0:0:0:387	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:387	>>	Previous mode Local/Remote	changed to	0.00
+0/0/0	0:0:0:387	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:387	>>	Previous Local OFF/ON	changed to	1.00
+0/0/0	0:0:0:388	>>	Previous Remote Step	changed to	1.00
+0/0/0	0:0:0:388	>>	Previous Remote OFF/ON	changed to	1.00
+0/0/0	0:0:0:390	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:390	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:390	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:391	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:391	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:391	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:391	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:391	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:392	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:394	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:394	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:394	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:394	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:395	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:395	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:395	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:395	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:395	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:397	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:398	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:398	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:398	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:398	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:398	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:399	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:399	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:399	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:401	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:401	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:402	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:402	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:402	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:402	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:402	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:403	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:403	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:403	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:403	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:405	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:406	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:406	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:406	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:406	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:406	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:407	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:407	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:407	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:409	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:409	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:409	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:410	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:410	>>	B1 Hours	changed to	25.00
+0/0/0	0:0:0:410	>>	B2 Hours	changed to	6.00
+0/0/0	0:0:0:410	>>	B3 Hours	changed to	3.00
+0/0/0	0:0:0:410	>>	B4 Hours	changed to	3.00
+0/0/0	0:0:0:411	>>	B5 Hours	changed to	25.00
+0/0/0	0:0:0:411	>>	B1 Minutes	changed to	22.00
+0/0/0	0:0:0:411	>>	B2 Minutes	changed to	20.00
+0/0/0	0:0:0:413	>>	B3 Minutes	changed to	44.00
+0/0/0	0:0:0:413	>>	B4 Minutes	changed to	50.00
+0/0/0	0:0:0:414	>>	B5 Minutes	changed to	53.00
+0/0/0	0:0:0:414	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:414	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:414	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:414	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:782	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:782	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:782	>>	Sensor GRL1: OK
+0/0/0	0:0:0:782	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:784	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:784	>>	Sensor TW1: OK
+0/0/0	0:0:0:785	>>	Sensor TW2: OK
+0/0/0	0:0:0:785	>>	Sensor TW3: OK
+0/0/0	0:0:0:785	>>	Sensor TW4: OK
+0/0/0	0:0:0:785	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:785	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:785	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:786	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:947	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	0:0:0:987	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:0:1:27	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:1:67	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:1:224	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:1:263	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:1:303	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:1:363	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:0:1:403	>>	REMOTE send Short Circuit indication	changed to	1.00
+0/0/0	0:0:1:443	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:0:1:483	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:0:1:524	>>	Save log data (Mode , ON/OFF)	changed to	0.10
+0/0/0	0:0:1:604	>>	REMOTE send Short Circuit indication	changed to	0.00
+0/0/0	0:0:1:644	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:695	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:0:4:468	>>	Errors menu pressed	changed to	5.00
+0/0/0	0:0:5:132	>>	ILMS menu pressed	changed to	10.00
+0/0/0	0:0:12:884	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:0:12:925	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	0:0:12:965	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	0:0:13:4	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	0:0:13:44	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:14:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:0:14:126	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:14:166	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:0:14:325	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:0:15:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:0:15:573	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:15:613	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:0:15:774	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:0:17:32	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:0:17:116	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:17:156	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:0:17:315	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:0:18:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:0:18:572	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:0:18:613	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:18:656	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:0:18:815	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:0:20:36	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:0:20:77	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:20:117	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:0:20:278	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:0:20:929	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:0:20:975	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:0:21:71	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:0:21:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:0:21:573	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:0:21:613	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:0:21:774	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:0:21:914	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:0:21:954	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:0:21:996	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:0:22:36	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:0:22:77	>>	Save log data (Mode , ON/OFF)	changed to	0.10
+0/0/0	0:1:21:33	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:1:44:877	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:1:44:917	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	0:1:44:957	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	0:1:44:997	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	0:1:45:40	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:1:46:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:1:46:104	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:46:144	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:46:303	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:47:533	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:1:47:574	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:47:616	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:47:775	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:49:32	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:1:49:118	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:49:158	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:49:316	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:50:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:1:50:575	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:1:50:617	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:50:656	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:50:815	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:52:33	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:1:52:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:52:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:52:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:52:957	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:1:52:997	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:1:53:99	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:1:53:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:1:53:574	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:53:614	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:53:773	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:55:34	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:1:55:111	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:55:151	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:55:309	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:56:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:1:56:573	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:1:56:614	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:56:654	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:56:815	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:58:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:1:58:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:58:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:58:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:1:58:939	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:1:58:980	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:1:59:81	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:1:59:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:1:59:630	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:1:59:669	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:1:59:829	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:1:36	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:2:1:79	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:1:119	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:1:280	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:2:533	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:2:2:574	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:2:2:620	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:2:660	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:2:819	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:4:33	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:2:4:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:4:116	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:4:275	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:4:921	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:2:4:961	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:2:5:63	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:2:5:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:2:5:613	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:5:654	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:5:814	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:7:32	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:2:7:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:7:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:7:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:8:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:2:8:573	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:2:8:617	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:8:656	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:8:815	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:10:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:2:10:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:10:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:10:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:10:903	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:2:10:952	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:2:11:47	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:2:11:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:2:11:587	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:11:627	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:11:785	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:13:32	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:2:13:123	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:13:163	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:13:322	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:14:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:2:14:573	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:2:14:614	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:14:654	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:14:813	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:16:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:2:16:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:16:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:16:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:16:887	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:2:16:933	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:2:17:29	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:2:17:535	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:2:17:576	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:17:616	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:17:775	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:19:32	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:2:19:115	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:19:155	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:19:314	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:20:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:2:20:573	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:2:20:614	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:20:654	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:20:813	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:22:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:2:22:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:22:116	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:22:275	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:22:874	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:2:22:914	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:2:23:16	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:2:23:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:2:23:574	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:23:614	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:23:775	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:25:32	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:2:25:114	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:25:154	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:25:313	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:26:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:2:26:573	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:2:26:614	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:26:656	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:26:815	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:28:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:2:28:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:28:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:28:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:28:956	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:2:28:998	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:2:29:101	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	0:2:29:532	>>	Current mismatch resend Local	changed to	2.00
+0/0/0	0:2:29:574	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:29:614	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:29:773	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:31:33	>>	Current mismatch resend Local	changed to	3.00
+0/0/0	0:2:31:111	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:31:153	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:31:312	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:32:532	>>	Current mismatch resend Local	changed to	4.00
+0/0/0	0:2:32:573	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	0:2:32:614	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:32:654	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:32:813	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:34:32	>>	Current mismatch resend Local	changed to	1.00
+0/0/0	0:2:34:74	>>	LOCAL: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:2:34:114	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	0:2:34:273	>>	Save config data Local STEP	changed to	1.00
+0/0/0	0:2:34:941	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	0:2:34:989	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	0:2:35:83	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00

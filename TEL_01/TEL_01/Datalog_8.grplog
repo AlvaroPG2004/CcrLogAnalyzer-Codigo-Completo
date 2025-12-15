@@ -1,0 +1,1881 @@
+
+******************************************************************
+
+0/0/0	0:0:0:389	>>	CCR NAME:  TEL - 01 / Software version	changed to	3.13
+0/0/0	0:0:0:390	>>	Number of Files Saved	changed to	9.00
+0/0/0	0:0:0:390	>>	Last CCR startup EN/DIS	changed to	1.00
+0/0/0	0:0:0:390	>>	Previous mode Local/Remote	changed to	0.00
+0/0/0	0:0:0:390	>>	Previous Local Step	changed to	1.00
+0/0/0	0:0:0:390	>>	Previous Local OFF/ON	changed to	0.00
+0/0/0	0:0:0:391	>>	Previous Remote Step	changed to	3.00
+0/0/0	0:0:0:391	>>	Previous Remote OFF/ON	changed to	1.00
+0/0/0	0:0:0:393	>>	Redundancy type	changed to	0.00
+0/0/0	0:0:0:393	>>	Redundancy priority	changed to	0.00
+0/0/0	0:0:0:393	>>	Relay operation mode	changed to	0.00
+0/0/0	0:0:0:394	>>	Configured Step	changed to	0.00
+0/0/0	0:0:0:394	>>	WDT timeout	changed to	1000.00
+0/0/0	0:0:0:394	>>	Communication table	changed to	0.00
+0/0/0	0:0:0:394	>>	Communication method	changed to	5.00
+0/0/0	0:0:0:394	>>	JBUS_SPEED	changed to	9600.00
+0/0/0	0:0:0:395	>>	PARITY	changed to	0.00
+0/0/0	0:0:0:397	>>	JBUS_ID	changed to	1.00
+0/0/0	0:0:0:397	>>	Time between Relays readings	changed to	50.00
+0/0/0	0:0:0:397	>>	Progresive brightness scaling	changed to	1.00
+0/0/0	0:0:0:397	>>	Time interval between STEPs	changed to	0.00
+0/0/0	0:0:0:398	>>	First STEP current from B5	changed to	6.00
+0/0/0	0:0:0:398	>>	Out of range time interval	changed to	375.00
+0/0/0	0:0:0:398	>>	Tiempo refresco Display	changed to	0.00
+0/0/0	0:0:0:398	>>	Brillo ACK EN/DIS	changed to	1.00
+0/0/0	0:0:0:398	>>	TEMP. Warning EN/DIS	changed to	1.00
+0/0/0	0:0:0:401	>>	RCB comm errors	changed to	0.00
+0/0/0	0:0:0:401	>>	Startup DLY EN/DIS	changed to	0.00
+0/0/0	0:0:0:401	>>	Startup T.	changed to	500.00
+0/0/0	0:0:0:401	>>	Driver EN/DIS	changed to	1.00
+0/0/0	0:0:0:401	>>	Current EN/DIS	changed to	1.00
+0/0/0	0:0:0:402	>>	Overcurrent EN/DIS	changed to	0.00
+0/0/0	0:0:0:402	>>	Time window Overcurrent	changed to	20.00
+0/0/0	0:0:0:402	>>	Number of Overcurrent	changed to	3.00
+0/0/0	0:0:0:402	>>	Power Loss EN/DIS	changed to	0.00
+0/0/0	0:0:0:435	>>	% Power Loss for alarm	changed to	30.00
+0/0/0	0:0:0:435	>>	CCR turned OFF due errors	changed to	0.00
+0/0/0	0:0:0:435	>>	CCR Power limit 	changed to	7500.00
+0/0/0	0:0:0:436	>>	MAX ATT. 	changed to	115.00
+0/0/0	0:0:0:436	>>	CCR Max STEP Level	changed to	5.00
+0/0/0	0:0:0:436	>>	STEP 0	changed to	1.80
+0/0/0	0:0:0:436	>>	STEP 1	changed to	2.80
+0/0/0	0:0:0:436	>>	STEP 2	changed to	3.40
+0/0/0	0:0:0:437	>>	STEP 3	changed to	4.10
+0/0/0	0:0:0:437	>>	STEP 4	changed to	5.20
+0/0/0	0:0:0:437	>>	STEP 5	changed to	6.60
+0/0/0	0:0:0:439	>>	STEP 6	changed to	6.60
+0/0/0	0:0:0:439	>>	STEP 7	changed to	6.60
+0/0/0	0:0:0:440	>>	STEP 8	changed to	6.60
+0/0/0	0:0:0:440	>>	STEP 9	changed to	6.60
+0/0/0	0:0:0:440	>>	Upper current range limit	changed to	0.10
+0/0/0	0:0:0:440	>>	Lower current range limit	changed to	0.10
+0/0/0	0:0:0:440	>>	LFD is CALIBRATED	changed to	1.00
+0/0/0	0:0:0:441	>>	Correlation steps in LFD calibration	changed to	3.00
+0/0/0	0:0:0:441	>>	LFD is ENABLE	changed to	0.00
+0/0/0	0:0:0:443	>>	EFD is ENABLE	changed to	1.00
+0/0/0	0:0:0:443	>>	Idioma	changed to	4.00
+0/0/0	0:0:0:443	>>	MCB cal.	changed to	0.00
+0/0/0	0:0:0:444	>>	HOROMETER is ENABLE	changed to	1.00
+0/0/0	0:0:0:444	>>	B1 Hours	changed to	5.00
+0/0/0	0:0:0:444	>>	B2 Hours	changed to	0.00
+0/0/0	0:0:0:444	>>	B3 Hours	changed to	2.00
+0/0/0	0:0:0:444	>>	B4 Hours	changed to	2.00
+0/0/0	0:0:0:445	>>	B5 Hours	changed to	18.00
+0/0/0	0:0:0:445	>>	B1 Minutes	changed to	54.00
+0/0/0	0:0:0:445	>>	B2 Minutes	changed to	54.00
+0/0/0	0:0:0:447	>>	B3 Minutes	changed to	51.00
+0/0/0	0:0:0:447	>>	B4 Minutes	changed to	58.00
+0/0/0	0:0:0:448	>>	B5 Minutes	changed to	57.00
+0/0/0	0:0:0:448	>>	ILMS is ENABLE	changed to	1.00
+0/0/0	0:0:0:448	>>	CTS is ENABLE	changed to	1.00
+0/0/0	0:0:0:448	>>	CTS is EXCLUSIVE	changed to	0.00
+0/0/0	0:0:0:448	>>	DC-LINK REARM FLAG	changed to	1.00
+0/0/0	0:0:0:478	>>			 ** SENSOR STATES CHECK **
+0/0/0	0:0:0:478	>>	Sensor CG1: CG1 is CLOSED
+0/0/0	0:0:0:478	>>	Sensor GRL1: OK
+0/0/0	0:0:0:478	>>	Sensor SW1-SW4: OK
+0/0/0	0:0:0:480	>>	Sensor INTERLOCK: OK
+0/0/0	0:0:0:481	>>	Sensor TW1: OK
+0/0/0	0:0:0:481	>>	Sensor TW2: OK
+0/0/0	0:0:0:481	>>	Sensor TW3: OK
+0/0/0	0:0:0:481	>>	Sensor TW4: OK
+0/0/0	0:0:0:481	>>	Sensor OC1 | DC-LINK: OK
+0/0/0	0:0:0:481	>>	Sensor MCO1: MCO1 is NOT closed: Normal operation with Cut-out NOT connected
+0/0/0	0:0:0:481	>>	Sensor MCO2: MCO2 is NOT closed: Cut-out in short-circuit
+0/0/0	0:0:0:482	>>	Sensor IGBT DRIVER ERROR: IGBT driver FAULT detected: See INFO0 for driver detail
+0/0/0	0:0:0:623	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	0:0:0:644	>>	REMOTE send Common fault Indication (0 CCR FAULT)	changed to	1.00
+0/0/0	0:0:0:664	>>	Save log data (Mode , ON/OFF)	changed to	0.00
+0/0/0	0:0:0:796	>>	Presencia tension de red RL1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:817	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:0:0:837	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	0:0:0:858	>>	Voltage DC-Link [Alcanzado : 0]	changed to	0.00
+0/0/0	0:0:0:988	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	0:0:1:9	>>	REMOTE send CUT-OUT not connected	changed to	1.00
+0/0/0	0:0:1:30	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	0:0:10:512	>>	Screen attenuated	changed to	1.00
+0/0/0	0:1:3:453	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	0:5:41:999	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:5:42:44	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:5:42:64	>>	REMOTE STEP brightness por eth comm hibrid	changed to	3.00
+0/0/0	0:5:42:112	>>	Save config data Remote STEP	changed to	3.00
+0/0/0	0:5:45:903	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	0:5:45:948	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	0:5:45:968	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	0:5:46:14	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	0:6:2:510	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:6:3:677	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	0:6:3:828	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	0:6:3:884	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	0:6:3:904	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:6:3:925	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	0:6:3:945	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	0:6:3:965	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	0:6:4:26	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	0:6:4:47	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	0:6:4:70	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	0:6:4:90	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	0:6:4:134	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	0:6:5:168	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	0:6:15:514	>>	Screen attenuated	changed to	1.00
+0/0/0	0:6:20:513	>>	Screen locked	changed to	1.00
+0/0/0	0:6:31:799	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	0:6:31:843	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	0:6:31:866	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	0:6:31:944	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	0:6:32:74	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	0:6:32:95	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	0:6:32:116	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	0:6:32:223	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	0:6:32:244	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	0:6:32:266	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	0:6:32:287	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	0:6:32:499	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	0:7:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:8:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:9:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:10:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:11:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:12:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:13:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:14:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:15:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:16:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:17:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:18:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:19:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:20:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:21:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:22:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:23:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:24:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:25:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:26:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:27:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:28:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:29:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:30:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:31:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:32:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:33:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:34:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:35:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:36:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:37:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:38:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:39:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:40:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:41:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:42:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:43:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:44:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:45:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:46:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:47:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:48:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:49:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:50:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:50:50:513	>>	Screen attenuated	changed to	1.00
+0/0/0	0:51:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:51:18:512	>>	Screen attenuated	changed to	1.00
+0/0/0	0:52:3:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:53:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:53:23:534	>>	Mode menu pressed	changed to	3.00
+0/0/0	0:53:34:513	>>	Screen attenuated	changed to	1.00
+0/0/0	0:53:39:599	>>	Screen locked	changed to	1.00
+0/0/0	0:54:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:55:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:56:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:57:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:58:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	0:59:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:0:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:1:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:2:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:3:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:4:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:5:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:6:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:7:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:8:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:9:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:10:3:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:10:35:549	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	1:10:38:781	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	1:10:38:983	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	1:10:39:387	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	1:10:39:589	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	1:10:43:944	>>	Mode menu pressed	changed to	3.00
+0/0/0	1:10:47:843	>>	CCR LOCAL mode pressed	changed to	0.00
+0/0/0	1:10:47:996	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	1:10:48:18	>>	LOCAL: Send MCB Set main power relay	changed to	0.00
+0/0/0	1:10:48:39	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	1:10:48:178	>>	Save config data Local STEP	changed to	1.00
+0/0/0	1:10:48:198	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	1:10:48:220	>>	REMOTE send CCR mode IN REMOTE	changed to	0.00
+0/0/0	1:10:48:397	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:10:49:21	>>	Mode menu pressed	changed to	3.00
+0/0/0	1:10:49:645	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:10:51:300	>>	Mode menu pressed	changed to	3.00
+0/0/0	1:10:51:816	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	1:10:51:968	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	1:10:51:989	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	1:10:52:11	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:10:52:32	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	1:10:52:53	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	1:10:53:182	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:10:53:946	>>	Errors menu pressed	changed to	5.00
+0/0/0	1:10:60:331	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	1:11:3:523	>>	Screen attenuated	changed to	1.00
+0/0/0	1:11:17:562	>>	Screen attenuated	changed to	1.00
+0/0/0	1:11:17:992	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:11:23:666	>>	Errors menu pressed	changed to	5.00
+0/0/0	1:11:25:465	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:11:26:53	>>	Mode menu pressed	changed to	3.00
+0/0/0	1:11:28:404	>>	CCR LOCAL mode pressed	changed to	0.00
+0/0/0	1:11:28:557	>>	DC voltage injection for EFD EN/DIS	changed to	0.00
+0/0/0	1:11:28:579	>>	LOCAL: Send MCB Set main power relay	changed to	0.00
+0/0/0	1:11:28:599	>>	LOCAL: Send MCB Set Output Current	changed to	2.80
+0/0/0	1:11:28:741	>>	Save config data Local STEP	changed to	1.00
+0/0/0	1:11:28:762	>>	REMOTE send CCR mode IN LOCAL	changed to	1.00
+0/0/0	1:11:28:782	>>	REMOTE send CCR mode IN REMOTE	changed to	0.00
+0/0/0	1:11:28:988	>>	CCR REMOTE mode pressed	changed to	1.00
+0/0/0	1:11:29:142	>>	DC voltage injection for EFD EN/DIS	changed to	1.00
+0/0/0	1:11:29:164	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	1:11:29:185	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:11:29:205	>>	REMOTE send CCR mode IN LOCAL	changed to	0.00
+0/0/0	1:11:29:228	>>	REMOTE send CCR mode IN REMOTE	changed to	1.00
+0/0/0	1:11:29:469	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	1:11:39:514	>>	Screen attenuated	changed to	1.00
+0/0/0	1:11:44:513	>>	Screen locked	changed to	1.00
+0/0/0	1:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:14:16:935	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:14:16:980	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:14:17:3	>>	REMOTE STEP brightness por eth comm hibrid	changed to	3.00
+0/0/0	1:14:17:48	>>	Save config data Remote STEP	changed to	3.00
+0/0/0	1:14:17:166	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:14:17:186	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:14:17:206	>>	REMOTE send Confirm STEP 3	changed to	1.00
+0/0/0	1:14:17:310	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	1:14:17:330	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	1:14:17:353	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	1:14:17:406	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	1:14:17:548	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	1:14:18:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:14:18:75	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:14:18:95	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:15:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:21:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:22:28:58	>>	B3 Hours	changed to	3.00
+0/0/0	1:22:28:82	>>	B3 Minutes	changed to	0.00
+0/0/0	1:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:29:38:581	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	1:29:38:635	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	1:29:38:656	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	1:29:38:676	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	1:29:38:721	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	1:29:38:776	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	1:29:40:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:29:40:48	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:40:72	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:41:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:29:41:591	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:41:611	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:43:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:29:43:34	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:43:55	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:44:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:29:44:533	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:29:44:587	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:44:608	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:46:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:29:46:34	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:46:55	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:46:651	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:29:46:672	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:29:46:776	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:29:47:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:29:47:596	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:47:616	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:49:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:29:49:36	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:49:60	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:50:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:29:50:533	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:29:50:621	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:50:675	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:52:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:29:52:112	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:52:185	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:52:714	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:29:52:768	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:29:52:853	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:29:53:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:29:53:567	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:53:622	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:55:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:29:55:85	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:55:139	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:56:516	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:29:56:571	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:29:56:629	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:56:650	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:58:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:29:58:84	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:58:104	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:29:58:693	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:29:58:713	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:29:58:815	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:29:59:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:29:59:536	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:29:59:560	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:30:1:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	1:30:1:80	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:1:100	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:30:2:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	1:30:2:533	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	1:30:2:555	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:2:579	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:30:4:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	1:30:4:98	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:4:118	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:30:4:655	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	1:30:4:676	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	1:30:4:778	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	1:30:4:927	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	1:30:5:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	1:30:5:554	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:5:575	>>	REMOTE: Send MCB Set Output Current	changed to	4.10
+0/0/0	1:30:5:699	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	1:30:5:720	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	1:30:5:741	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	1:30:5:761	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	1:30:5:807	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	1:30:7:513	>>	Screen attenuated	changed to	1.00
+0/0/0	1:30:26:514	>>	Screen attenuated	changed to	1.00
+0/0/0	1:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:30:31:2	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:30:31:47	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:30:31:68	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	1:30:31:115	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	1:30:31:233	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:30:31:253	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	1:30:31:274	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	1:30:31:294	>>	REMOTE send Confirm STEP 3	changed to	0.00
+0/0/0	1:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:34:43:96	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	1:34:43:140	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	1:34:43:161	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	1:34:43:207	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	1:34:43:336	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	1:34:43:357	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	1:34:43:378	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	1:34:43:401	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	1:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:40:28:57	>>	B1 Hours	changed to	6.00
+0/0/0	1:40:28:80	>>	B1 Minutes	changed to	0.00
+0/0/0	1:41:17:292	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	1:41:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:44:42:17	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	1:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:46:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:50:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	1:59:1:123	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	1:59:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:0:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:2:26:53	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	2:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:11:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:16:23:240	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	2:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:19:44:533	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	2:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:28:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:30:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:33:39:301	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	2:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:37:1:204	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	2:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:40:28:57	>>	B1 Hours	changed to	7.00
+0/0/0	2:40:28:78	>>	B1 Minutes	changed to	0.00
+0/0/0	2:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:45:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:50:44:650	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	2:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:54:3:836	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	2:54:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	2:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:0:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:2:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:7:54:146	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	3:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:11:12:409	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	3:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:14:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:24:59:92	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	3:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:26:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:28:17:563	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	3:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:40:28:57	>>	B1 Hours	changed to	8.00
+0/0/0	3:40:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	3:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:42:4:753	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	3:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:45:18:570	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	3:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:48:47:760	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	3:48:47:805	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	3:48:47:828	>>	REMOTE STEP brightness por eth comm hibrid	changed to	2.00
+0/0/0	3:48:47:873	>>	Save config data Remote STEP	changed to	2.00
+0/0/0	3:48:48:2	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	3:48:48:23	>>	REMOTE: Send MCB Set Output Current	changed to	3.40
+0/0/0	3:48:48:44	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	3:48:48:65	>>	REMOTE send Confirm STEP 2	changed to	1.00
+0/0/0	3:48:53:826	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	3:48:53:871	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	3:48:53:895	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	3:48:53:939	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	3:48:54:69	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	3:48:54:90	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	3:48:54:110	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	3:48:54:131	>>	REMOTE send Confirm STEP 2	changed to	0.00
+0/0/0	3:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:50:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:52:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:54:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:58:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	3:58:56:62	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	3:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:2:9:580	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	4:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:9:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:15:44:241	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	4:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:18:58:770	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	4:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:25:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:26:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:32:49:695	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	4:33:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:36:2:0	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	4:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:40:28:58	>>	B1 Hours	changed to	9.00
+0/0/0	4:40:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	4:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:43:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:48:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:49:58:485	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	4:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:53:7:856	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	4:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:55:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	4:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:2:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:7:3:431	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	5:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:10:14:130	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	5:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:24:11:710	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	5:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:27:16:944	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	5:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:33:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:40:28:58	>>	B1 Hours	changed to	10.00
+0/0/0	5:40:28:82	>>	B1 Minutes	changed to	0.00
+0/0/0	5:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:41:29:183	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	5:42:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:44:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:44:30:585	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	5:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:50:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	5:58:43:528	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	5:59:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:1:47:39	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	6:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:5:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:7:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:16:7:55	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	6:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:19:9:158	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	6:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:20:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:24:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:33:30:890	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	6:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:36:37:336	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	6:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:40:28:59	>>	B1 Hours	changed to	11.00
+0/0/0	6:40:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	6:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:43:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:51:5:733	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	6:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:54:19:55	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	6:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:56:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:58:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	6:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:7:54:220	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	7:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:11:13:592	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	7:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:14:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:21:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:22:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:24:43:410	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	7:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:28:3:597	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	7:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:31:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:38:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:40:28:59	>>	B1 Hours	changed to	12.00
+0/0/0	7:40:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	7:41:9:278	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	7:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:44:19:354	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	7:44:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:48:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:57:46:144	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	7:58:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	7:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:1:2:392	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	8:1:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:5:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:14:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:14:32:503	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	8:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:17:45:617	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	8:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:22:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:28:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:30:53:220	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	8:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:33:60:368	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	8:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:36:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:40:28:59	>>	B1 Hours	changed to	13.00
+0/0/0	8:40:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	8:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:47:31:607	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	8:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:50:52:590	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	8:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:55:28:18	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	8:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:2:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:4:14:429	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	9:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:7:23:200	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	9:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:8:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:10:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:12:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:20:54:431	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	9:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:24:6:633	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	9:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:29:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:34:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:37:29:82	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	9:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:40:28:58	>>	B1 Hours	changed to	14.00
+0/0/0	9:40:28:81	>>	B1 Minutes	changed to	0.00
+0/0/0	9:40:45:733	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	9:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:47:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:54:17:63	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	9:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:57:29:779	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	9:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	9:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:3:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:5:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:11:6:656	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	10:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:14:23:606	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	10:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:24:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:25:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:27:59:684	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	10:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:31:17:645	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	10:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:36:28:18	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:40:28:58	>>	B1 Hours	changed to	15.00
+0/0/0	10:40:28:78	>>	B1 Minutes	changed to	0.00
+0/0/0	10:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:43:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:44:56:451	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	10:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:48:10:72	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	10:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:53:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:54:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	10:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:1:48:474	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	11:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:5:3:305	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	11:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:6:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:9:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:10:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:18:25:652	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	11:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:21:33:606	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	11:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:27:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:35:19:990	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	11:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:36:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:38:30:170	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	11:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:40:28:58	>>	B1 Hours	changed to	16.00
+0/0/0	11:40:28:78	>>	B1 Minutes	changed to	0.00
+0/0/0	11:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:47:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:48:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:52:6:957	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	11:52:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:53:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:55:15:120	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	11:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	11:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:1:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:9:5:949	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	12:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:12:15:424	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	12:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:17:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:18:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:25:58:67	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	12:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:29:10:781	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	12:29:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:31:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:34:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:40:28:57	>>	B1 Hours	changed to	17.00
+0/0/0	12:40:28:80	>>	B1 Minutes	changed to	0.00
+0/0/0	12:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:42:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:42:46:855	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	12:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:45:54:116	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	12:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:51:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:52:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:54:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	12:59:40:896	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	13:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:2:48:961	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	13:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:8:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:16:26:154	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	13:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:17:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:19:33:302	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	13:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:29:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:33:20:999	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	13:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:36:34:715	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	13:37:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:40:28:57	>>	B1 Hours	changed to	18.00
+0/0/0	13:40:28:78	>>	B1 Minutes	changed to	0.00
+0/0/0	13:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:49:46:958	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	13:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:51:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:52:56:134	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	13:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:54:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:58:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	13:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:2:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:6:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:6:35:849	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	14:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:9:54:9	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	14:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:13:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:15:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:23:20:905	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	14:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:26:38:154	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	14:27:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:32:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:40:7:976	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	14:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:40:28:57	>>	B1 Hours	changed to	19.00
+0/0/0	14:40:28:78	>>	B1 Minutes	changed to	0.00
+0/0/0	14:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:43:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:43:28:358	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	14:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:49:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:53:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:56:40:500	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	14:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	14:59:55:124	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	15:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:9:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:10:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:13:13:428	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	15:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:16:35:733	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	15:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:22:28:19	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:29:56:459	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	15:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:32:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:33:19:879	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	15:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:34:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:39:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:40:28:57	>>	B1 Hours	changed to	20.00
+0/0/0	15:40:28:78	>>	B1 Minutes	changed to	0.00
+0/0/0	15:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:43:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:46:32:320	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	15:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:49:57:356	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	15:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:50:37:513	>>	Screen attenuated	changed to	1.00
+0/0/0	15:50:45:909	>>	Mode menu pressed	changed to	3.00
+0/0/0	15:50:48:845	>>	BACK to Menu pressed	changed to	2.00
+0/0/0	15:50:58:513	>>	Screen attenuated	changed to	1.00
+0/0/0	15:51:3:513	>>	Screen locked	changed to	1.00
+0/0/0	15:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:56:28:18	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	15:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:3:12:219	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	16:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:4:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:6:40:384	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	16:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:13:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:19:51:616	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	16:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:23:18:667	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	16:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:26:3:513	>>	Screen attenuated	changed to	1.00
+0/0/0	16:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:33:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:35:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:36:21:817	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	16:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:39:49:281	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	16:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:40:28:58	>>	B1 Hours	changed to	21.00
+0/0/0	16:40:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	16:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:45:28:11	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:52:32:835	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	16:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:56:0:992	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	16:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	16:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:4:10:513	>>	Screen attenuated	changed to	1.00
+0/0/0	17:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:6:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:8:53:139	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	17:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:11:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:12:24:636	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	17:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:20:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:25:13:342	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	17:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:28:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:28:45:343	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	17:29:21:840	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	17:29:21:885	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	17:29:21:905	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	17:29:21:951	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	17:29:22:69	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	17:29:22:90	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	17:29:22:113	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	17:29:22:315	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	17:29:22:335	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	17:29:22:356	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	17:29:22:377	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	17:29:22:504	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	17:29:28:12	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:30:28:12	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:38:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:46:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:49:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:51:28:896	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	17:51:28:941	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	17:51:28:961	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	17:51:29:9	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	17:51:29:126	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	17:51:29:147	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	17:51:29:168	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	17:51:29:277	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	17:51:29:297	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	17:51:29:319	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	17:51:29:342	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	17:51:29:385	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	17:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:54:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:56:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	17:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:1:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:3:28:58	>>	B1 Hours	changed to	22.00
+0/0/0	18:3:28:79	>>	B1 Minutes	changed to	0.00
+0/0/0	18:4:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:11:28:15	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:13:40:324	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	18:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:17:25:962	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	18:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:18:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:19:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:22:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:24:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:28:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:29:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:30:18:916	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	18:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:31:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:33:34:513	>>	Screen attenuated	changed to	1.00
+0/0/0	18:33:51:115	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	18:34:1:336	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	18:34:1:381	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	18:34:1:510	>>	REMOTE STEP brightness por eth comm hibrid	changed to	5.00
+0/0/0	18:34:1:555	>>	Save config data Remote STEP	changed to	5.00
+0/0/0	18:34:1:686	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	18:34:1:706	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	18:34:1:730	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	18:34:1:751	>>	REMOTE send Confirm STEP 5	changed to	1.00
+0/0/0	18:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:35:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:36:28:58	>>	B5 Hours	changed to	19.00
+0/0/0	18:36:28:79	>>	B5 Minutes	changed to	0.00
+0/0/0	18:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:38:41:899	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	18:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:40:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:41:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:42:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:43:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:44:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:45:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:46:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:47:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:48:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:48:29:408	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	18:49:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:50:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:51:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:52:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:52:36:460	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	18:53:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:54:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:55:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:56:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:57:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:58:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	18:59:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:0:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:1:28:18	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:2:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:3:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:4:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:5:13:554	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	19:5:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:6:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:7:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:8:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:9:22:818	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	19:9:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:10:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:11:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:12:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:13:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:14:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:15:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:16:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:17:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:18:28:17	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:19:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:20:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:20:50:932	>>	REMOTE send High Temperature Warning	changed to	0.00
+0/0/0	19:21:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:22:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:23:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:24:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:25:1:923	>>	REMOTE send High Temperature Warning	changed to	1.00
+0/0/0	19:25:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:26:19:353	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	19:26:19:397	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	19:26:19:418	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	19:26:19:466	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	19:26:19:584	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:26:19:604	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	19:26:19:626	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	19:26:19:646	>>	REMOTE send Confirm STEP 5	changed to	0.00
+0/0/0	19:26:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:27:3:961	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	19:27:4:8	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	19:27:4:30	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	19:27:4:75	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	19:27:4:204	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	19:27:4:224	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	19:27:4:245	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	19:27:4:344	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	19:27:4:367	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	19:27:4:387	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	19:27:4:408	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	19:27:4:626	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	19:27:6:605	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	19:27:6:650	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	19:27:6:671	>>	REMOTE STEP brightness por eth comm hibrid	changed to	1.00
+0/0/0	19:27:6:719	>>	Save config data Remote STEP	changed to	1.00
+0/0/0	19:27:6:848	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:27:6:869	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	19:27:6:890	>>	REMOTE send Confirm STEP 1	changed to	1.00
+0/0/0	19:27:6:996	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	19:27:7:17	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	19:27:7:38	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	19:27:7:61	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	19:27:7:104	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	19:27:7:514	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:27:7:534	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:27:7:555	>>	REMOTE: Send MCB Set Output Current	changed to	2.80
+0/0/0	19:27:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:27:33:99	>>	REMOTE ON/OFF from eth 	changed to	1.00
+0/0/0	19:27:33:146	>>	Save config data Remote ON/OFF	changed to	1.00
+0/0/0	19:27:33:169	>>	REMOTE STEP brightness por eth comm hibrid	changed to	5.00
+0/0/0	19:27:33:214	>>	Save config data Remote STEP	changed to	5.00
+0/0/0	19:27:33:342	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:27:33:363	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:27:33:383	>>	REMOTE send Confirm STEP 1	changed to	0.00
+0/0/0	19:27:33:404	>>	REMOTE send Confirm STEP 5	changed to	1.00
+0/0/0	19:28:21:798	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	19:28:21:821	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	19:28:21:841	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	19:28:21:862	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	19:28:21:915	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	19:28:21:936	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	1.00
+0/0/0	19:28:23:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:23:95	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:23:118	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:24:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:28:24:538	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:24:559	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:26:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:28:26:79	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:26:100	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:27:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:28:27:533	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:28:27:555	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:27:576	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:28:29:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:29:96	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:29:119	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:29:636	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:28:29:657	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:28:29:758	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:28:30:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:28:30:556	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:30:577	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:32:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:28:32:100	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:32:120	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:33:514	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:28:33:534	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:28:33:555	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:33:576	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:35:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:35:99	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:35:119	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:35:699	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:28:35:719	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:28:35:822	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:28:36:514	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:28:36:542	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:36:565	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:38:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:28:38:85	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:38:106	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:39:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:28:39:533	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:28:39:555	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:39:578	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:41:14	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:41:98	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:41:118	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:41:661	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:28:41:683	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:28:41:784	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:28:42:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:28:42:538	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:42:559	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:44:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:28:44:79	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:44:100	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:45:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:28:45:536	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:28:45:557	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:45:578	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:47:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:47:98	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:47:118	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:47:624	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:28:47:646	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:28:47:746	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:28:48:514	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:28:48:544	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:48:565	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:50:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:28:50:85	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:50:106	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:51:513	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:28:51:533	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:28:51:555	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:51:576	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:53:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:53:96	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:53:116	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:53:687	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:28:53:708	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:28:53:810	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:28:54:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:28:54:539	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:54:560	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:56:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:28:56:80	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:56:101	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:57:514	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:28:57:534	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:28:57:555	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:57:576	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:59:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:28:59:96	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:28:59:116	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:28:59:650	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:28:59:671	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:28:59:773	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:29:0:513	>>	Current mismatch resend Remote	changed to	2.00
+0/0/0	19:29:0:536	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:29:0:559	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:29:2:13	>>	Current mismatch resend Remote	changed to	3.00
+0/0/0	19:29:2:79	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:29:2:100	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:29:2:796	>>	Microswitch puerta SW4-SW1 [Cerrado : 0]	changed to	0.00
+0/0/0	19:29:3:514	>>	Current mismatch resend Remote	changed to	4.00
+0/0/0	19:29:3:534	>>	Send MCB MCU restart by CAN	changed to	1.00
+0/0/0	19:29:3:557	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:29:3:579	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:29:5:13	>>	Current mismatch resend Remote	changed to	1.00
+0/0/0	19:29:5:99	>>	REMOTE: Send MCB Set main power relay	changed to	1.00
+0/0/0	19:29:5:119	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:29:5:613	>>	MCB COMM ERROR	changed to	1.00
+0/0/0	19:29:5:633	>>	REPEATED ERROR IN MCB comm. 	changed to	1.00
+0/0/0	19:29:5:735	>>	REPEATED ERROR IN MCB comm. 	changed to	0.00
+0/0/0	19:29:5:764	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	1.00
+0/0/0	19:29:5:784	>>	REMOTE send On-Indication (direct.)	changed to	1.00
+0/0/0	19:29:5:805	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	1.00
+0/0/0	19:29:5:826	>>	Save log data (Mode , ON/OFF)	changed to	1.10
+0/0/0	19:29:5:870	>>	Contactor General CG [Cerrado : 0]	changed to	0.00
+0/0/0	19:29:28:14	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:30:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:31:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:32:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:33:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:34:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:35:28:16	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:36:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:37:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:38:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:39:28:13	>>	TIME STAMP de 1 MINUTO	changed to	1.00
+0/0/0	19:39:28:61	>>	B5 Hours	changed to	20.00
+0/0/0	19:39:28:82	>>	B5 Minutes	changed to	0.00
+0/0/0	19:40:9:763	>>	REMOTE ON/OFF from eth 	changed to	0.00
+0/0/0	19:40:9:808	>>	Save config data Remote ON/OFF	changed to	0.00
+0/0/0	19:40:9:828	>>	REMOTE STEP brightness por eth comm hibrid	changed to	0.00
+0/0/0	19:40:9:874	>>	Save config data Remote STEP	changed to	0.00
+0/0/0	19:40:10:3	>>	REMOTE: Send MCB Set main power relay	changed to	0.00
+0/0/0	19:40:10:25	>>	REMOTE: Send MCB Set Output Current	changed to	6.60
+0/0/0	19:40:10:48	>>	REMOTE send Confirm STEP 5	changed to	0.00
+0/0/0	19:40:10:259	>>	REMOTE send CCR ON (1) / OFF (0)	changed to	0.00
+0/0/0	19:40:10:279	>>	REMOTE send On-Indication (direct.)	changed to	0.00
+0/0/0	19:40:10:300	>>	REMOTE send Off-Indication (0 CCR OFF)	changed to	0.00
+0/0/0	19:40:10:321	>>	Save log data (Mode , ON/OFF)	changed to	1.00
+0/0/0	19:40:10:406	>>	Contactor General CG [Cerrado : 0]	changed to	1.00
+0/0/0	19:40:12:513	>>	Screen attenuated	changed to	1.00
